@@ -50,3 +50,5 @@ Herhangi bir sunucu veya paket kurulumu gerektirmez.
 ## Not
 
 Bu çalışma paylaşılan ChatGPT sohbetinden düzenlenmiş gayriresmî bir tekrar rehberidir. Havayolu ve yer hizmetleri şirketlerinin resmî eğitimleri ve prosedürleri esas alınmalıdır.
+
+Son güncelleme
